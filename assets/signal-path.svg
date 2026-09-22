@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 185" role="img" aria-labelledby="title desc">
+  <title id="title">From signal to release</title>
+  <desc id="desc">A thin teal path moves through measured points on a dark grid.</desc>
+  <rect width="900" height="185" rx="16" fill="#111827"/>
+  <g stroke="#263447" stroke-width="1" opacity=".7">
+    <path d="M0 46H900M0 92H900M0 138H900M75 0V185M225 0V185M375 0V185M525 0V185M675 0V185M825 0V185"/>
+  </g>
+  <path d="M55 116L135 103 218 119 300 83 382 91 462 69 542 75 625 53 710 62 842 37" fill="none" stroke="#5eead4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#5eead4">
+    <circle cx="55" cy="116" r="4"/><circle cx="218" cy="119" r="4"/><circle cx="382" cy="91" r="4"/><circle cx="542" cy="75" r="4"/><circle cx="710" cy="62" r="4"/><circle cx="842" cy="37" r="5"/>
+  </g>
+  <g fill="#e5e7eb" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">
+    <text x="55" y="156">OBSERVE</text><text x="258" y="156">MODEL</text><text x="452" y="156">MEASURE</text><text x="653" y="156">RELEASE</text>
+  </g>
+</svg>
